@@ -19,11 +19,11 @@
 <img src="https://github.com/user-attachments/assets/b126d8e4-44a8-42f5-a39d-b71a86c2a2a2">
 ## Step to run : 
 
-- Downloand and Open prject in Netbean
-  Setup sql data from datasql.sql
-  Open project in Netbeans
-  Add sdbc4.jar
-  Connect using 
++ Downloand and Open prject in Netbean
++ Setup sql data from datasql.sql
++ Open project in Netbeans
++ Add sdbc4.jar
++ Connect using 
 <img src="https://github.com/user-attachments/assets/16be7897-537c-43b5-a5ec-c7b38da9cfff">
 <img src="https://github.com/user-attachments/assets/fdcef4c6-2769-4886-935c-14d7020b258c"> 
 Right click Drivers => New Driver => Add sdbc4.jar => Right Click => Connect using =>
