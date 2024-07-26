@@ -1,5 +1,5 @@
 # Java-Web-Application-Development
-## Technique used : 
+## Technique learned : 
 + MVC , MVC2 Pattern
 + Servlet
 + JDBC
