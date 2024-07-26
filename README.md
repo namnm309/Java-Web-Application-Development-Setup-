@@ -16,4 +16,5 @@
 + ApacheTomcat 8.5.29
 + JSTL 1.2.1
 + SQL 2019
-<img src="https://drive.google.com/file/d/10bgG-g8WzMJTZ1kp_5OA8rF2C_AqYyEs/view?usp=drive_link.gif">
+<img src="![image](https://github.com/user-attachments/assets/b126d8e4-44a8-42f5-a39d-b71a86c2a2a2)
+">
