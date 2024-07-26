@@ -18,11 +18,11 @@
 + SQL 2019
 <img src="https://github.com/user-attachments/assets/b126d8e4-44a8-42f5-a39d-b71a86c2a2a2">
 ## Step to run : 
-1) Downloand and Open prject in Netbean
-2) Setup sql data from datasql.sql
-3) Open project in Netbeans
-4) Add sdbc4.jar
-5) Connect using 
+- 1) Downloand and Open prject in Netbean
+- 2) Setup sql data from datasql.sql
+- 3) Open project in Netbeans
+- 4) Add sdbc4.jar
+- 5) Connect using 
 <img src="https://github.com/user-attachments/assets/16be7897-537c-43b5-a5ec-c7b38da9cfff">
 <img src="https://github.com/user-attachments/assets/fdcef4c6-2769-4886-935c-14d7020b258c"> 
 Right click Drivers => New Driver => Add sdbc4.jar => Right Click => Connect using =>
